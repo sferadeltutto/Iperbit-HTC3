@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Iperbit-HTC3"
+message: "If you use this work, please cite the Zenodo archived version."
+authors:
+  - family-names: "Rossetto"
+    given-names: "Luca"
+repository-code: "https://github.com/sferadeltutto/Iperbit-HTC3"
+version: "v1.0.0"
+date-released: 2026-02-09
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18552483
